@@ -7,3 +7,4 @@ while True:
     soma += num
 #print('A soma dos valores digitados é igual a {}'.format(soma))
 print(f'A soma dos valores digitados é igual a {soma}')
+ 
